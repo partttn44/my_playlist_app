@@ -29,10 +29,21 @@ It features playlist browsing, audio playback with progress tracking, and a reac
 
 <!-- Replace with your app screenshots -->
 
-![Home Page](asset/screenshot/homepage.png)
-![Playing playlist in Home Page](asset/screenshot/playing_playlist.png)
-![Playlist Detail](asset/screenshot/playlist.png)
-![Playing music in Playlist Detail](asset/screenshot/playing_music.png)
+### Home Page
+
+<img src="asset/screenshot/homepage.png" alt="Home Page" width="300"/>
+
+### Playing Playlist
+
+<img src="asset/screenshot/playing_playlist.png" alt="Playing Playlist" width="300"/>
+
+### Playlist Detail
+
+<img src="asset/screenshot/playlist.png" alt="Playlist Detail" width="300"/>
+
+### Playing Music
+
+<img src="asset/screenshot/playing_music.png" alt="Playing Music" width="300"/>
 
 ---
 

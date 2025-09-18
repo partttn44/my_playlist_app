@@ -76,6 +76,7 @@ Follow these steps to run the project locally.
 
 ### Project Structure
 
+```
 music_app/
 ├── lib/
 │ ├── controllers/ # GetX controllers for state management
@@ -88,3 +89,4 @@ music_app/
 ├── assets/ # Images, icons, and music files
 ├── pubspec.yaml # Project dependencies and metadata
 └── README.md # This file
+```
